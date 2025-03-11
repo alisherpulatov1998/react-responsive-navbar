@@ -1,3 +1,21 @@
+Responsive Navbar using React.JS and VITE menus in the Uzbek Language!
+in order to use this Sample locally in VS Code:
+- download this repository
+- open VS Code terminal and run "cd + folder_Name" and "npm install" command
+- local port is already set on "port 3000". one can change port number in "vite.config.js" file in "src" folder
+- after running "npm install" on your VS Code terminal open your internet browser (for example: Chrome or Safari) and open  "http://localhost:3000/"
+- you can enjoy Responsive Navbar in React.JS
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
