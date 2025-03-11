@@ -1,0 +1,6 @@
+/* in order to make navbar "sticky" set "height" to 100% not "dvh" or "vh" */
+.app {
+    background-color: #fefefe;
+    height: 100%;
+    width: 100%;
+}
